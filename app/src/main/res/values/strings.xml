@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeWork8_2</string>
+    <string name="text">Добрый вечер!</string>
+    <string name="rus">Русский</string>
+    <string name="english">English</string>
+    <string name="franc">Français</string>
+</resources>
